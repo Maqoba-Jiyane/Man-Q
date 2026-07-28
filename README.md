@@ -96,7 +96,6 @@ A business-focused application designed to manage contextual information, struct
 - Pushed updates to **Maqoba-Jiyane/ContextTo**
 - Pushed updates to **Maqoba-Jiyane/ContextTo**
 - Pushed updates to **Maqoba-Jiyane/ContextTo**
-- Created branch in **Maqoba-Jiyane/ContextTo**
 <!--END_SECTION:activity-->
 
 ---
