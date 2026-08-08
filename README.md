@@ -1,108 +1,108 @@
 <div align="center">
 
-# Hi, I'm Maqoba Jiyane 👋
+# Maqoba Jiyane
 
-### 🚀 Backend & Full-Stack Developer | Scalable APIs | Business Systems | AI-Powered Applications
+### Software Engineer · Backend & Full-Stack
 
-<p>
-  <a href="mailto:maqoba.emannuel@gmail.com">
-    <img src="https://img.shields.io/badge/Email-maqoba.emannuel%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/maqoba-jiyane">
-    <img src="https://img.shields.io/badge/LinkedIn-Maqoba%20Jiyane-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://time.is/South_Africa">
-    <img src="https://img.shields.io/badge/Timezone-SAST%20UTC%2B2-111827?style=for-the-badge" alt="Timezone" />
-  </a>
-</p>
+TypeScript · Node.js · Java · Python · PostgreSQL · MongoDB
+
+South Africa · Open to remote software engineering roles
+
+[LinkedIn](https://www.linkedin.com/in/maqoba-jiyane) · [Employment Echo](https://employmentecho.co.za/)
 
 </div>
 
 ---
 
-## 💼 Professional Snapshot
+## About
 
-* Build **scalable backend architectures** with clean business logic, maintainable modules, and production-focused structure.
-* Design and develop **REST APIs**, backend services, integrations, and data-driven application workflows.
-* Create reliable **database schemas** using Prisma, PostgreSQL, and MongoDB with a focus on relationships, performance, and long-term maintainability.
-* Work across the full stack using **TypeScript, NestJS, Next.js, Node.js, Prisma, MongoDB, PostgreSQL, and Tailwind CSS**.
-* Focus on practical software that solves real business problems, improves workflows, and creates value for users.
+I am a backend-oriented Software Engineer who builds and operates real-world software products.
 
----
+My experience spans enterprise REST APIs and integration systems, data-driven web platforms, asynchronous processing, database design, document workflows and production operations.
 
-## 👨‍💻 About Me
-
-I am a software developer from South Africa who enjoys building practical systems that solve real business and community problems.
-
-My journey started with **Java**, then grew into backend development, system integrations, API design, databases, and modern full-stack applications. Today, my strongest focus is building reliable backend systems using **TypeScript, NestJS, Prisma, PostgreSQL, MongoDB, and Node.js**, while also working across the frontend with **Next.js and Tailwind CSS**.
-
-I like working on projects where software has a clear purpose — platforms that help people find opportunities, automate workflows, manage information, or make business processes easier to understand and use.
-
-My goal is to keep improving as a developer by building real products, solving real problems, and writing code that is clean, scalable, and useful.
+I enjoy engineering problems where the difficult part is not the interface, but the system behind it: data modelling, APIs, business rules, integrations, background processing, reliability and maintainability.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Featured Engineering Work
 
-### Backend & Databases
+### Employment Echo — Production Employment Platform
 
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)
+A South African employment-discovery platform that I architect, develop and operate.
 
-### Frontend & UI
+**Production impact**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+- **1.01M+** Google Search impressions
+- **91.1K+** organic search clicks
+- **~9%** organic CTR
+- **946** Google-indexed pages
 
----
+**Engineering:** structured vacancy ingestion, validation and transformation; search and filtering; time-sensitive content lifecycle rules; data modelling; production deployment; SEO-oriented application architecture.
 
-## 🚀 Featured Project
+**Stack:** Next.js · TypeScript · Prisma · MongoDB · Clerk · Vercel · Cloudflare
 
-### Contexto
-
-A business-focused application designed to manage contextual information, structure workflows, and support scalable backend logic.
-
-**Tech Stack:** TypeScript, Prisma, Backend Architecture, Database Design
-
-**Engineering Focus:**
-
-* Clean data schemas
-* Reliable entity relationships
-* Modular business logic
-* Scalable backend structure
-
-<p>
-  <a href="https://github.com/Maqoba-Jiyane/contexto">
-    <img src="https://img.shields.io/badge/Code%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code Repository" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-  </a>
-</p>
-
-<!-- PROJECT_SCREENSHOT: Contexto -->
+[Live Platform](https://employmentecho.co.za/) · [Engineering Case Study](https://github.com/Maqoba-Jiyane/employment-echo-engineering-case-study)
 
 ---
 
-## ⚡ Recent Activity
+### ContextTo — Multi-Tenant Knowledge & RAG Platform
 
-<!--START_SECTION:activity-->
-- No recent public GitHub activity found.
-<!--END_SECTION:activity-->
+A backend-heavy knowledge platform exploring multi-tenant document ingestion and retrieval architecture.
+
+**Engineering:** NestJS API orchestration, BullMQ/Redis background jobs, Python/FastAPI document processing, PostgreSQL/Prisma data modelling and a path toward pgvector-powered retrieval.
+
+**Stack:** TypeScript · NestJS · Python · FastAPI · PostgreSQL · Prisma · Redis · BullMQ · Docker
+
+[Repository](https://github.com/Maqoba-Jiyane/ContextTo)
 
 ---
 
-## 📈 GitHub Metrics
+## Selected Product Work
 
-<div align="center">
+### EonResume
+Resume-generation platform focused on structured candidate data, configurable document templates and document-generation workflows.
 
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=Maqoba-Jiyane&show_icons=true&theme=transparent&hide_border=true" alt="Maqoba's GitHub Stats" />
+### Nail Technician Booking Platform
+Appointment-management software focused on availability calculation, booking lifecycle rules, customer workflows and calendar/email integrations.
 
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maqoba-Jiyane&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+### Kasi Flavors
+Local food-ordering platform focused on menus, cart/order state, customer journeys and commerce workflows.
 
-</div>
+*Additional public repositories and engineering case studies will be added as project documentation is prepared.*
+
+---
+
+## Core Engineering Stack
+
+**Backend:** TypeScript, Node.js, NestJS, Java, Python, REST APIs  
+**Data:** PostgreSQL, MongoDB, Prisma, Redis  
+**Frontend:** Next.js, React, Tailwind CSS  
+**Infrastructure:** Docker, Vercel, Cloudflare, CI/CD  
+**Enterprise integration:** Java EE, IBM App Connect Enterprise, WebSphere, ESQL, Jenkins
+
+---
+
+## What I Focus On
+
+- Backend architecture and API design
+- Data modelling and transformation
+- Business-rule implementation
+- Asynchronous/background processing
+- Search and discovery systems
+- Production debugging and optimisation
+- AI/RAG application architecture
+- Clear technical documentation
+
+---
+
+## Remote Engineering
+
+I am comfortable owning work from requirements through production, communicating asynchronously, documenting technical decisions and debugging independently in distributed environments.
+
+---
+
+## Contact
+
+**LinkedIn:** https://www.linkedin.com/in/maqoba-jiyane  
+**GitHub:** https://github.com/Maqoba-Jiyane  
+**Location:** South Africa
