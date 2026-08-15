@@ -45,6 +45,23 @@ A South African employment-discovery platform that I architect, develop and oper
 
 ---
 
+### Eon Resume — AI-Powered Resume Builder
+
+An AI-powered resume-building platform that transforms structured user data into professional, prebuilt resume templates.
+
+Users build resumes through structured forms rather than manually designing documents. The captured data populates reusable resume templates, separating resume content from presentation and making resumes easier to create, edit and maintain.
+
+**Engineering:** form-driven resume data modelling, reusable template rendering, AI-assisted resume content, authenticated user workflows, document-generation pipelines and PDF processing/export.
+
+**AI:** originally integrated with the OpenAI API; current AI functionality uses the Groq API.
+
+**Stack:** Next.js 15 · React · TypeScript · Prisma · MongoDB · Clerk · Groq API · Tailwind CSS · Puppeteer · pdf-lib
+
+[Live App](https://nextjs-15-ai-resume-builder-navy.vercel.app/) · [Repository](https://github.com/Maqoba-Jiyane/nextjs-15-ai-resume-builder)
+
+
+---
+
 ### ContextTo — Multi-Tenant Knowledge & RAG Platform
 
 A backend-heavy knowledge platform exploring multi-tenant document ingestion and retrieval architecture.
@@ -58,9 +75,6 @@ A backend-heavy knowledge platform exploring multi-tenant document ingestion and
 ---
 
 ## Selected Product Work
-
-### EonResume
-Resume-generation platform focused on structured candidate data, configurable document templates and document-generation workflows.
 
 ### Nail Technician Booking Platform
 Appointment-management software focused on availability calculation, booking lifecycle rules, customer workflows and calendar/email integrations.
